@@ -63,8 +63,8 @@ body{
 
 .box img{
     display: block;
-    width: 350px;
-    height: 400px;
+    width: 250px;
+    height: 300px;
     margin:auto;
     object-fit: cover;
     border-radius: 50%;
@@ -176,8 +176,6 @@ body{
 }
 
 .services-content summary{
-    font-weight: bold;
-    color: rgb(41, 104, 51);
     cursor: pointer;
 }
 

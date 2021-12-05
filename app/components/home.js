@@ -59,7 +59,7 @@ export function Home(){
             ventas, sistemas de control de inventarios, etc.</article>
         </details>
         <details class="services-content">
-            <summary>🌐 Desarrollo Front-End</summary>
+            <summary>🌐Desarrollo Front-End</summary>
             <article>Tengo conocimientos solidos de HTML5, Css3 y Vanilla JavaScript
             para aportar en desarrollo web del lado Front-End, un ejemplo de algunos de mis
             proyectos Front-End es este portafolios. <small>Nota: Estoy apunto de aprender
